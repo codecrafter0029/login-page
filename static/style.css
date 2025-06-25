@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient( rgba( 0, 0, 0, 0.491) , rgba( 0, 0, 0, 0.416)) ,url("/static/images/login-bg.jpeg")
+}
+
+.login-top{
+    width: 100vw;
+    height: 70px;
+    background-color: #00000000;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+}
+
+.logo-img{
+    width: 180px;
+}
+
+.login-box{
+    background-color: #000000af;
+    width: 430px;
+    height: 580px;
+    border-radius: 5px;
+    padding: 50px;
+}
+
+.small-text{
+    font-size: 13px;
+    color: #000;
+}
+
+.form-control{
+    box-shadow: none !important;
+}
+
+.Check-lable{
+    color: #fff;
+}
